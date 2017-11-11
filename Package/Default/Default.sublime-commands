@@ -1,0 +1,2 @@
+    { "_comment": "Created: 04/10/2017 by bstidham", "caption": "Set Line Endings - Unix", "command": "set_line_ending", "args": {"type": "unix"}},
+    { "_comment": "Created: 04/10/2017 by bstidham", "caption": "Set Line Endings - Windows", "command": "set_line_ending", "args": {"type": "windows"}}
